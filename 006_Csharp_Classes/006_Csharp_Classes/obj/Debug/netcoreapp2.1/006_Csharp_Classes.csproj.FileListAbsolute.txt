@@ -1,0 +1,11 @@
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\bin\Debug\netcoreapp2.1\006_Csharp_Classes.deps.json
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\bin\Debug\netcoreapp2.1\006_Csharp_Classes.runtimeconfig.json
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\bin\Debug\netcoreapp2.1\006_Csharp_Classes.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\bin\Debug\netcoreapp2.1\006_Csharp_Classes.dll
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\bin\Debug\netcoreapp2.1\006_Csharp_Classes.pdb
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\obj\Debug\netcoreapp2.1\006_Csharp_Classes.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\obj\Debug\netcoreapp2.1\006_Csharp_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\obj\Debug\netcoreapp2.1\006_Csharp_Classes.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\obj\Debug\netcoreapp2.1\006_Csharp_Classes.AssemblyInfo.cs
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\obj\Debug\netcoreapp2.1\006_Csharp_Classes.dll
+C:\Users\Nick\source\repos\c_sharp\006_Csharp_Classes\006_Csharp_Classes\006_Csharp_Classes\obj\Debug\netcoreapp2.1\006_Csharp_Classes.pdb
